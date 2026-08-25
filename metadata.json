@@ -1,0 +1,6 @@
+{
+  "name": "DNRH Lab Equipment Dashboard",
+  "description": "แดชบอร์ดสรุปข้อมูลเครื่องมือห้องปฏิบัติการ โรงพยาบาลเทพรัตน์นครราชสีมา (DNRH) - ทะเบียนเครื่องมือ งานซ่อม PM และผลการสอบเทียบ",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
